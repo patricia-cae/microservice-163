@@ -1,0 +1,1 @@
+{"traceSegments":[{"traceSegments":[{"length":800,"id":"02ec2d30b911497741f649bc:ivy:$MySQL_Dependencies$before[0]","type":"protected"},{"length":0,"id":"02ec2d30b911497741f649bc:ivy:$MySQL_Dependencies$","type":"protected"},{"length":33,"id":"02ec2d30b911497741f649bc:ivy:End","type":"protected"}],"id":"02ec2d30b911497741f649bc:ivy","type":"composite"}],"traces":{}}
